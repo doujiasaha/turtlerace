@@ -1,6 +1,7 @@
 from turtle import Turtle, Screen
 import random
 
+#main class
 class New_turtle():
     def __init__(self, id):
         self.id = id   
